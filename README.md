@@ -4,3 +4,10 @@
 А потом запускаем клиентскую часть с помощью команды "npm star"
 Дальнейшее ползание показано на скриншотах 
     Главное страница 
+![image](https://user-images.githubusercontent.com/74898494/133442257-5ac79a01-f1d3-45e8-8c60-f424f721e8f3.png)
+На главной странице работает сортировка по товару и производителям 
+![image](https://user-images.githubusercontent.com/74898494/133443769-34859666-e2da-481e-b2b9-42d49b3fa2ef.png)
+Товары можно добавить с помощью админ панели 
+![image](https://user-images.githubusercontent.com/74898494/133445096-261ba6a3-d015-49fa-9bab-68728f2a9a98.png)
+Также можно смотреть все характеристике 
+![image](https://user-images.githubusercontent.com/74898494/133445440-52160494-e82a-48d1-b30f-57353cc223e6.png)
